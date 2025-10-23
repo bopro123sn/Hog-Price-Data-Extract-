@@ -1,0 +1,5 @@
+{
+  "name": "Hog Price Data Extract",
+  "description": "An AI-powered tool to extract and standardize hog prices from any article URL. Export data to CSV or save directly to Google Sheets.",
+  "requestFramePermissions": []
+}
